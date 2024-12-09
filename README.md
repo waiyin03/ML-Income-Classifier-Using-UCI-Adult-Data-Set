@@ -3,7 +3,7 @@
 This project uses the UCI Adult Dataset to classify whether an individual's income exceeds $50,000 using machine learning techniques in R.
 
 ## Files
-- `ECON_418-518_HW3_R_Template.R`: Contains the R code for preprocessing, modeling, and evaluating the dataset.
+- `Kelly_Cheung.HW3.R`: Contains the R code for preprocessing, modeling, and evaluating the dataset.
 
 ## Instructions
 - Load the dataset.
